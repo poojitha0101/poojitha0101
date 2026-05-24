@@ -1,4 +1,4 @@
-# Hi, I'm Poojitha 👋
+# Hi, I'm Poojitha 
 
 A data-driven problem solver with hands-on experience in SQL, Python, Power BI, and Excel.
 I enjoy turning messy data into clear business insights.
@@ -59,4 +59,4 @@ Exported findings to Excel MIS Pivot Table reports for stakeholder presentation.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/poojitha-nallamaru-541a58353)
 
-📍 Hyderabad | Open to relocation across India
+📍 Hyderabad | Open to relocation across India.
