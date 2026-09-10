@@ -1,6 +1,6 @@
 # Hi, I'm Poojitha 👋
 
-### Data & Analytics Professional | SQL • Python • Power BI • Azure • Automation
+### Data & Analytics Professional | SQL • Python • Excel • Power BI • Azure • Automation
 
 Most professionals stop at querying data; I focus on the end-to-end data lifecycle. I am a data-driven problem solver combining hands-on expertise in **Business Intelligence & Analytics** with a strong foundation in **Cloud Data Engineering (Azure, Databricks, PySpark)** and **Workflow Automation**. 
 
