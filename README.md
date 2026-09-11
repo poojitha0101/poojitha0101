@@ -1,11 +1,13 @@
 # Hi, I'm Poojitha 👋
 
-### Data & Analytics Professional | SQL • Python • Excel • Power BI • Azure • Automation
+### Data & Analytics | SQL • Python • Power BI • Excel • Azure • PySpark
 
-Most professionals stop at querying data; I focus on the end-to-end data lifecycle. I am a data-driven problem solver combining hands-on expertise in **Business Intelligence & Analytics** with a strong foundation in **Cloud Data Engineering (Azure, Databricks, PySpark)** and **Workflow Automation**. 
+I enjoy working with data to clean, analyze, visualize, and turn it into useful insights.
 
-From building interactive dashboards to designing ETL pipelines and automating processes, I clean, transform, and analyze complex datasets to uncover trends, optimize workflows, and drive strategic business decisions.
+My projects cover **data analysis, SQL, business intelligence, reporting, and data engineering fundamentals**, using tools such as **SQL, Python, Pandas, Power BI, Excel, Azure, and PySpark**.
 
-📍 Hyderabad | 🌍 Open to Pan-India & Remote Opportunities
-💼 Seeking roles in Data Analytics, Business Analysis, and Data Engineering
-📫 Reach me at: poojithanallamaru@gmail.com | [LinkedIn](https://www.linkedin.com/in/poojitha-n-541a58353)
+I’m also building practical projects around **data pipelines, big-data processing, and workflow automation** as I continue expanding my data engineering skills.
+
+📍 Hyderabad, India
+💼 Open to opportunities in **Data Analytics, BI/Reporting, SQL, and Junior Data Engineering**
+📫 [LinkedIn](https://www.linkedin.com/in/poojitha-n-541a58353)
