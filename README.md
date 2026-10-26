@@ -1,13 +1,25 @@
-# Hi, I'm Poojitha 👋
+# Hi, I'm Poojitha Nallamaru 👋
 
-### Data & Analytics | SQL • Python • Power BI • Excel • Azure • PySpark
+I'm an aspiring Data Analyst interested in Data Analytics, Business Intelligence, and AI.
 
-I enjoy working with data to clean, analyze, visualize, and turn it into useful insights.
+### 🛠️ Skills
+- **Programming:** Python, SQL
+- **Data Analysis:** Pandas, NumPy, Excel
+- **Visualization:** Power BI, DAX, Power Query
+- **AI:** Generative AI, LLMs, Embeddings, RAG
+- **Other:** Azure, PySpark, Databricks, Git, GitHub
 
-My projects cover **data analysis, SQL, business intelligence, reporting, and data engineering fundamentals**, using tools such as **SQL, Python, Pandas, Power BI, Excel, Azure, and PySpark**.
+### 🚀 Projects
+- **India Data & AI Job Market Intelligence** – Python, SQL, Power BI, RAG, Streamlit
+- **HR Attrition Analysis** – Python, SQL, Power BI
+- **Telco Customer Churn Analysis** – Python, Pandas, Power BI
+- **E-Commerce SQL Analysis** – SQL, Joins, Subqueries
 
-I’m also building practical projects around **data pipelines, big-data processing, and workflow automation** as I continue expanding my data engineering skills.
+### 🌱 Currently Learning
+Exploring AI applications, data engineering, and practical data analytics projects.
 
-📍 Hyderabad, India
-💼 Open to opportunities in **Data Analytics, BI/Reporting, SQL, and Junior Data Engineering**
-📫 [LinkedIn](https://www.linkedin.com/in/poojitha-n-541a58353)
+📍 Hyderabad, India | Open to relocation  
+📧 poojithanallamaru@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/poojitha-n-541a58353)
+
+*Learning, building, and improving every day.* 🚀
