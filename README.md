@@ -21,5 +21,6 @@ Exploring AI applications, data engineering, and practical data analytics projec
 📍 Hyderabad, India | Open to relocation  
 📧 poojithanallamaru@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/poojitha-n-541a58353)
+Portfolio link: https://poojitha-portfolio-pi.vercel.app/
 
 *Learning, building, and improving every day.* 🚀
